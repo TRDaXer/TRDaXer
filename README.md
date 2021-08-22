@@ -42,6 +42,6 @@ Turkey / Karaman
 <img src="https://github-readme-stats.vercel.app/api?username=TRDaXer&theme=radical"> 
  
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" align="right"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" align="right"> 
 
 </details>
