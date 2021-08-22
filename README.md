@@ -45,7 +45,6 @@ Turkey / Karaman
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=TRDaXer&theme=radical
-"> 
+<img src="https://github-readme-stats.vercel.app/api?username=TRDaXer&show_icons=true&theme=radical"> 
 
 </details>
