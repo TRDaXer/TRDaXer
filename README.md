@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/855594034620661783/855594912779337738/917968.png" align="right" width="100" height="100">
+<img src="https://cdn.discordapp.com/attachments/855594034620661783/855594912779337738/917968.png" align="right" width="100" height="100" style="border-radius: 4px;">
 
 
 ## Hi There I m DaXer. :blush:
